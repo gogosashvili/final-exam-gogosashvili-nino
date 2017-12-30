@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp20
 {
-    // saboloo gamocda 
+    
     class Program
     {
         static void Main(string[] args)
